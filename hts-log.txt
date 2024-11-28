@@ -1,0 +1,18 @@
+HTTrack3.49-2 launched on Thu, 28 Nov 2024 17:31:21 at https://www.projectsforhumanity.org
+(winhttrack https://www.projectsforhumanity.org -O "/Users/agautam/workspace/projects-for-humanity/projects-for-humanity" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:31:40	Error: 	"Not Found" (404) at link https://www.projectsforhumanity.org/c (from https://www.projectsforhumanity.org/)
+17:31:40	Error: 	"Not Found" (404) at link https://www.projectsforhumanity.org/t (from https://www.projectsforhumanity.org/)
+17:31:47	Error: 	"Not Found" (404) at link https://www.projectsforhumanity.org/feed.xml (from https://www.projectsforhumanity.org/)
+17:31:47	Error: 	"Not Found" (404) at link https://www.projectsforhumanity.org/decodeURIComponent(e (from https://www.projectsforhumanity.org/)
+17:31:54	Error: 	"Not Found" (404) at link https://www.projectsforhumanity.org/constants (from https://www.projectsforhumanity.org/online-ordering)
+17:31:54	Error: 	"Not Found" (404) at link https://www.projectsforhumanity.org/booking-calendar/sitemap.xml (from https://www.projectsforhumanity.org/booking-calendar/math-tutoring)
+17:31:54	Error: 	"Not Found" (404) at link https://www.projectsforhumanity.org/booking-calendar/feed.xml (from https://www.projectsforhumanity.org/booking-calendar/math-tutoring)
+
+HTTrack Website Copier/3.49-2 mirror complete in 33 seconds : 25 links scanned, 17 files written (12252828 bytes overall) [2767430 bytes received at 83861 bytes/sec], 11966236 bytes transferred using HTTP compression in 24 files, ratio 19%
+(7 errors, 0 warnings, 0 messages)

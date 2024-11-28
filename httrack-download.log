@@ -1,0 +1,40 @@
+httrack                                                                                                    ✔  at 17:29:45  
+
+Welcome to HTTrack Website Copier (Offline Browser) 3.49-2
+Copyright (C) 1998-2017 Xavier Roche and other contributors
+To see the option list, enter a blank line or try httrack --help
+
+Enter project name :projects-for-humanity
+
+Base path (return=/Users/agautam/websites/) :/Users/agautam/workspace/projects-for-humanity
+
+Enter URLs (separated by commas or blank spaces) :https://www.projectsforhumanity.org
+
+Action:
+(enter)	1	Mirror Web Site(s)
+	2	Mirror Web Site(s) with Wizard
+	3	Just Get Files Indicated
+	4	Mirror ALL links in URLs (Multiple Mirror)
+	5	Test Links In URLs (Bookmark Test)
+	0	Quit
+: 1
+
+Proxy (return=none) :
+
+You can define wildcards, like: -*.gif +www.*.com/*.zip -*img_*.zip
+Wildcards (return=none) :
+
+You can define additional options, such as recurse level (-r<number>), separated by blank spaces
+To see the option list, type help
+Additional options (return=none) :
+
+---> Wizard command line: httrack https://www.projectsforhumanity.org  -O "/Users/agautam/workspace/projects-for-humanity/projects-for-humanity"  -%v  
+
+Ready to launch the mirror? (Y/n) :
+
+Mirror launched on Thu, 28 Nov 2024 17:31:21 by HTTrack Website Copier/3.49-2 [XR&CO'2014]
+mirroring https://www.projectsforhumanity.org with the wizard help..
+Done.
+Thanks for using HTTrack!
+* 
+
